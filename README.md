@@ -1,6 +1,6 @@
 ### Hey! I'm the owner of Kira Network and I am mainly learning java
 
-Contacts: 
+Contacts
    Discord: 98ping#3040
    Telegram: @ign98ping
    Twitter: @98pingTW
