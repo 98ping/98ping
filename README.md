@@ -1,7 +1,7 @@
 # 98ping
 
 ## Who am I
-Hey, I am 98ping and I have worked on servers for about 2 years and I own my own (Kira Network) and operate others. I have a lot of experience in MineHQ plugins and framework development as that is what I have worked with for a majority of my short development lifetime.
+Hey, I am 98ping and I have worked on servers for about 2 years and I own my own (Kira Network) and operate others. I have a lot of experience in MineHQ plugins and framework development as that is what I have worked with for a majority of my short development lifetime. I occasionally do other things outside of sitting on my computer all day like school, hockey, and even a life. Of course these are rare occurances though.
 
 ## Talents
 I am in the process of learning kotlin and have a general understanding of how it works but I mainly use java as it is easier to understand. I enjoy creating minigame frameworks that carry data from a parent server to child servers for games such as bedwars, skywars, smaller games, tntrun, and more. 
