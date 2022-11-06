@@ -28,4 +28,5 @@ If it does then create an issue / dm me on discord (98ping#3040) to tell me how 
 </p>
 
 ## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=98ping&show_icons=true&locale=en&layout=compact" alt="98ping" /></p>
 [![98ping's stats](https://github-readme-stats.vercel.app/api?username=98ping)](https://github.com/anuraghazra/github-readme-stats)
