@@ -24,7 +24,3 @@
       <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   </a>
 </p>
-
-## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=98ping&show_icons=true&locale=en&layout=compact" alt="98ping" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=98ping" alt="98ping" /></p>
