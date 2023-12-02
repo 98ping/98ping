@@ -4,7 +4,7 @@
 - I am an independent and open source developer who makes software
 - I enjoy optimization at runtime levels
 
-# Skills (in order of skill)
+# Skills (in order of knowledge)
 
 <p align="center">
   <a href="https://skillicons.dev">
