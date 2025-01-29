@@ -1,4 +1,4 @@
-# Max C
+# Max C ![](https://komarev.com/ghpvc/?username=98ping&color=blueviolet)
 - 17 years old
 - Coding since I was 11
 
